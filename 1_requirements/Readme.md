@@ -1,4 +1,5 @@
-![electricity_bill](https://user-images.githubusercontent.com/86049636/125430636-4aca1f40-e40e-4abd-9366-b72a5d547425.png)
+![electricity](https://user-images.githubusercontent.com/86049636/125460413-32541ce2-0e33-4e3d-84f4-aa7e43fea1c1.jpeg)
+
 
 # Requirements
 ## Introduction
